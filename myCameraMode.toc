@@ -1,0 +1,9 @@
+﻿## Interface: @project-toc@
+## Author: @project-author@
+## Title: myCameraMode|cFF8080FF™|r
+## Notes: |cFF8080FFRévision @project-release-BETA@|r|nZoom adaptatif.
+## Version: @project-revision@
+## X-Revision: @project-revision@
+## X-Date: @project-date@
+
+myCameraMode.lua
